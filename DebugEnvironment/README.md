@@ -1,4 +1,4 @@
-# IBLtextures
+# Debug Environment Texture
 
 ## Description
 Test map to show orientation of axes to debug cube map in engine.
