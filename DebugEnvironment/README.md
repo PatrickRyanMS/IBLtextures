@@ -3,15 +3,12 @@
 ## Description
 Test map to show orientation of axes to debug cube map in engine.
 
-```
-![screenshot](screenshot/debugEnvironment_screenshot.png)
-```
+![screenshot](../screenshot/debugEnvironment_screenshot.png)
 
 | Name                                | Type       |
 | ----------------------------------- | ---------- |
 | TestCubeMap_panorama_irradiance.exr | Irradiance |
 | TestCubeMap_panorama_radiance.exr   | Radiance   |
-
 
 
 ## License Information
