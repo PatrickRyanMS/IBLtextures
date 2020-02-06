@@ -1,0 +1,429 @@
+{
+  "asset": {
+    "copyright": "2019 (c) Adobe Inc.",
+    "generator": "Adobe Dimension - 588ee4ece1d9e7aad8162c6775b08a7e07e8bf96",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "componentType": 5126,
+      "count": 3719,
+      "type": "VEC3",
+      "max": [
+        0.10000002384185791,
+        0.20000006258487701,
+        0.10000000894069672
+      ],
+      "min": [
+        -0.1000000387430191,
+        0.0,
+        -0.1000000536441803
+      ]
+    },
+    {
+      "componentType": 5126,
+      "count": 3719,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 3719,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5125,
+      "count": 21240,
+      "type": "SCALAR",
+      "max": [
+        3718.0
+      ],
+      "min": [
+        0.0
+      ]
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 17372
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 17372,
+      "uri": "DebugEnvironment.bin"
+    }
+  ],
+  "cameras": [
+    {
+      "perspective": {
+        "znear": 3.4641016100067645E-05,
+        "yfov": 0.60241568088531494,
+        "zfar": 2.0,
+        "aspectRatio": 1.3333333730697632
+      },
+      "type": "perspective",
+      "extras": {
+        "ADOBE_camera_extras": {
+          "isDefaultCamera": false,
+          "isWorkingCamera": true
+        }
+      },
+      "name": "render_camera"
+    }
+  ],
+  "images": [
+    {
+      "name": "_pos_x_0",
+      "uri": "DebugEnvironment_image0.png"
+    },
+    {
+      "name": "_pos_x_1",
+      "uri": "DebugEnvironment_image1.png"
+    },
+    {
+      "name": "_pos_x_2",
+      "uri": "DebugEnvironment_image2.png"
+    },
+    {
+      "name": "_pos_x_3",
+      "uri": "DebugEnvironment_image3.png"
+    },
+    {
+      "name": "_pos_x_4",
+      "uri": "DebugEnvironment_image4.png"
+    },
+    {
+      "name": "_neg_x_0",
+      "uri": "DebugEnvironment_image5.png"
+    },
+    {
+      "name": "_neg_x_1",
+      "uri": "DebugEnvironment_image6.png"
+    },
+    {
+      "name": "_neg_x_2",
+      "uri": "DebugEnvironment_image7.png"
+    },
+    {
+      "name": "_neg_x_3",
+      "uri": "DebugEnvironment_image8.png"
+    },
+    {
+      "name": "_neg_x_4",
+      "uri": "DebugEnvironment_image9.png"
+    },
+    {
+      "name": "_pos_y_0",
+      "uri": "DebugEnvironment_image10.png"
+    },
+    {
+      "name": "_pos_y_1",
+      "uri": "DebugEnvironment_image11.png"
+    },
+    {
+      "name": "_pos_y_2",
+      "uri": "DebugEnvironment_image12.png"
+    },
+    {
+      "name": "_pos_y_3",
+      "uri": "DebugEnvironment_image13.png"
+    },
+    {
+      "name": "_pos_y_4",
+      "uri": "DebugEnvironment_image14.png"
+    },
+    {
+      "name": "_neg_y_0",
+      "uri": "DebugEnvironment_image15.png"
+    },
+    {
+      "name": "_neg_y_1",
+      "uri": "DebugEnvironment_image16.png"
+    },
+    {
+      "name": "_neg_y_2",
+      "uri": "DebugEnvironment_image17.png"
+    },
+    {
+      "name": "_neg_y_3",
+      "uri": "DebugEnvironment_image18.png"
+    },
+    {
+      "name": "_neg_y_4",
+      "uri": "DebugEnvironment_image19.png"
+    },
+    {
+      "name": "_pos_z_0",
+      "uri": "DebugEnvironment_image20.png"
+    },
+    {
+      "name": "_pos_z_1",
+      "uri": "DebugEnvironment_image21.png"
+    },
+    {
+      "name": "_pos_z_2",
+      "uri": "DebugEnvironment_image22.png"
+    },
+    {
+      "name": "_pos_z_3",
+      "uri": "DebugEnvironment_image23.png"
+    },
+    {
+      "name": "_pos_z_4",
+      "uri": "DebugEnvironment_image24.png"
+    },
+    {
+      "name": "_neg_z_0",
+      "uri": "DebugEnvironment_image25.png"
+    },
+    {
+      "name": "_neg_z_1",
+      "uri": "DebugEnvironment_image26.png"
+    },
+    {
+      "name": "_neg_z_2",
+      "uri": "DebugEnvironment_image27.png"
+    },
+    {
+      "name": "_neg_z_3",
+      "uri": "DebugEnvironment_image28.png"
+    },
+    {
+      "name": "_neg_z_4",
+      "uri": "DebugEnvironment_image29.png"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.63075697422027588,
+          0.63075697422027588,
+          0.63075697422027588,
+          1.0
+        ],
+        "roughnessFactor": 0.0
+      },
+      "name": "Sphere Material"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "sphere_N3D",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "translation": [
+        0.21014884114265442,
+        1.0578421354293823,
+        -2.3141646385192871
+      ],
+      "rotation": [
+        -0.0052496977150440216,
+        0.99178647994995117,
+        0.12023717164993286,
+        0.043302211910486221
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "camera": 0,
+      "name": "render_camera_n3d"
+    },
+    {
+      "name": "ground_plane_n3d",
+      "extras": {
+        "ADOBE_ground_plane": {
+          "reflectionFresnel": 0,
+          "reflectionOpacity": 0,
+          "reflectionRoughness": 0,
+          "shadowOpacity": 1
+        }
+      }
+    },
+    {
+      "translation": [
+        7.6293922290915361E-08,
+        0.0,
+        9.5367390429146326E-08
+      ],
+      "scale": [
+        4.9999990463256836,
+        4.9999995231628418,
+        4.9999985694885254
+      ],
+      "mesh": 0,
+      "name": "Sphere"
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1,
+        2
+      ],
+      "name": "scene",
+      "extensions": {
+        "EXT_lights_image_based": {
+          "light": 0
+        }
+      },
+      "extras": {
+        "ADOBE_background": {
+          "color": [
+            1,
+            1,
+            1
+          ],
+          "opacity": 1
+        },
+        "ADOBE_canvas": {
+          "height": 768,
+          "width": 1024
+        }
+      }
+    }
+  ],
+  "scene": 0,
+  "extensions": {
+    "EXT_lights_image_based": {
+      "lights": [
+        {
+          "intensity": 1,
+          "irradianceCoefficients": [
+            [
+              3.2458717345591537,
+              2.9118393947847725,
+              3.690686783319578
+            ],
+            [
+              0.40659772799482158,
+              0.41754833667098834,
+              -0.027214843417229431
+            ],
+            [
+              0.034130966424910619,
+              -0.6058294725208,
+              0.02465866789774113
+            ],
+            [
+              0.28630115208346529,
+              -0.03743745782654808,
+              0.4965992924041529
+            ],
+            [
+              0.00082197266798326237,
+              0.0010086913536797551,
+              -0.00038848005059476793
+            ],
+            [
+              -0.0017084712337426483,
+              -0.00058339490954161313,
+              -0.0045444459875329428
+            ],
+            [
+              -0.329946054089321,
+              0.0088578195326088835,
+              0.57578586398959963
+            ],
+            [
+              -0.0074470083701071331,
+              -0.00058588428422794289,
+              0.0032255237659044845
+            ],
+            [
+              0.39246030799886322,
+              -0.30926669143519808,
+              0.17142518716343563
+            ]
+          ],
+          "name": "image_based_light",
+          "rotation": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "specularImageSize": 256,
+          "specularImages": [
+            [
+              0,
+              5,
+              10,
+              15,
+              20,
+              25
+            ],
+            [
+              1,
+              6,
+              11,
+              16,
+              21,
+              26
+            ],
+            [
+              2,
+              7,
+              12,
+              17,
+              22,
+              27
+            ],
+            [
+              3,
+              8,
+              13,
+              18,
+              23,
+              28
+            ],
+            [
+              4,
+              9,
+              14,
+              19,
+              24,
+              29
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression",
+    "EXT_lights_image_based"
+  ],
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression",
+    "EXT_lights_image_based"
+  ]
+}
