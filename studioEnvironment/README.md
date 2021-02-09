@@ -9,7 +9,7 @@ A 32-bit render of a studio environment with a large soft box light source and t
 | ----------------------------------------------- | ---------- |
 | studioSoftbox2Umbrellas_panorama_irradiance.exr | Irradiance |
 | studioSoftbox2Umbrellas_panorama_radiance.exr   | Radiance   |
-
+| studioSoftbox2Umbrellas_panorama_radiance.hdr   | Radiance   |
 
 ## License Information
 
